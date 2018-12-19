@@ -1,0 +1,19 @@
+.align-content{
+    display: flex;
+    background-color: green;
+}
+.stretch{
+    align-content: stretch;
+}
+.flex-start{
+    align-content: flex-start;
+}
+.flex-end{
+    align-content: flex-end;
+}
+.flex-item{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color:white;
+}
